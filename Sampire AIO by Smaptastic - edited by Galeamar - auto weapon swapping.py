@@ -1,8 +1,6 @@
 # Sampire AIO by Smaptastic - edited by Galeamar
 # Weapon ability selection logic largely taken from script by Orion
 
-# Script setup create an organizer agent named refillquiver
-# Add your prefered ammo type to it and set the amount to 500
 # Create a dress agent that includes your melee weapon
 # Create a dress agent that includes your ranged weapon
 
